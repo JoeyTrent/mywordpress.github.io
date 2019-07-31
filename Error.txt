@@ -1,3 +1,0 @@
-﻿文件下载网址  =>  文件保存路径
-https://www.nokia.com/themes/images/components/close.png  =>  D:\BaiduYunDownload\传智播客黑马前端36期（2018年）\第02阶段：京东项目\前端基础十二天\素材\扒网页的小工具\look\单页扒站小工具\www.nokia.com\images\close.png
-https://www.nokia.com/themes/nokia_base/uxg_assets/v1.0.15/select2-spinner.gif  =>  D:\BaiduYunDownload\传智播客黑马前端36期（2018年）\第02阶段：京东项目\前端基础十二天\素材\扒网页的小工具\look\单页扒站小工具\www.nokia.com\images\select2-spinner.gif
